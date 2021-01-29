@@ -21,6 +21,6 @@ $ ./a.out
 
 ```
  
-Now your project will run 
+Now your project will run like cheetah
 
 ## Enjoy your powerfull application
